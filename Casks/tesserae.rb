@@ -16,16 +16,16 @@
 
 
 cask "tesserae" do
-  version "0.1.0"
-  sha256 "1aaa8158942540ba08b895a123af3bc0a590395e54fc62dd5dd510de15baa022"
+  version "0.1.1"
+  sha256 "23077e72a9c0ba30129ce50787fb748d95ac75001192d1f47c7f1121261bfbcf"
 
-  url "https://github.com/sdelavega/tesserae/releases/download/v0.1.0/Tesserae-0.1.0.dmg"
+  url "https://github.com/sdelavega/tesserae/releases/download/v0.1.1/Tesserae-0.1.1.dmg"
   name "Tesserae"
   desc "Disk-space visualizer for macOS"
   homepage "https://github.com/sdelavega/tesserae"
 
   auto_updates true
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Tesserae.app"
 
