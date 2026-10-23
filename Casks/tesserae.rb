@@ -16,10 +16,10 @@
 
 
 cask "tesserae" do
-  version "0.1.2"
-  sha256 "1835baf5f0183ed56719f27367cd2d3adb13b97a1530e9ad5be04ea8a7d52c58"
+  version "0.2.0"
+  sha256 "b21640e70b5080b69484375ddcb8b95e9a032c9b6e7bc64e248a2da82a692259"
 
-  url "https://github.com/sdelavega/tesserae/releases/download/v0.1.2/Tesserae-0.1.2.dmg"
+  url "https://github.com/sdelavega/tesserae/releases/download/v0.2.0/Tesserae-0.2.0.dmg"
   name "Tesserae"
   desc "Disk-space visualizer for macOS"
   homepage "https://github.com/sdelavega/tesserae"
