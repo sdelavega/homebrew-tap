@@ -1,6 +1,6 @@
 cask "xrg-ng" do
-  version "0.2.1"
-  sha256 "6ba66699d9f11a4a344ce1dc9e4ef75d6b0406e9c2cd63b75579af1e839c3034"
+  version "0.2.2"
+  sha256 "dff0bb118ae14f906a033703947bf357d05d61c58a14e0c9e897b9c838cead22"
 
   url "https://github.com/sdelavega/XRG-ng/releases/download/v#{version}/XRG-ng-#{version}-macOS-universal.dmg"
   name "XRG-ng"
