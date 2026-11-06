@@ -1,8 +1,8 @@
 cask "pomace" do
-  version "1.1.4"
-  sha256 "41f53d28ed7a2f9747f2b53a70af11cc39b5242e067ce8575b1294f1e52de791"
+  version "1.1.5"
+  sha256 "1d720e50fc7bb595908e6c386ef8d86e3c70ae7694c9197a64fdbc114ee14b88"
 
-  url "https://github.com/sdelavega/Pomace/releases/download/v1.1.4/Pomace-1.1.4.dmg"
+  url "https://github.com/sdelavega/Pomace/releases/download/v1.1.5/Pomace-1.1.5.dmg"
   name "Pomace"
   desc "Transparent filesystem compression for macOS"
   homepage "https://github.com/sdelavega/Pomace"
